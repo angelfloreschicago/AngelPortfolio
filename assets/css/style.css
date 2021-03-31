@@ -6,6 +6,7 @@ body {
     background-color:#738487;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 40px;
+    padding-top: 20px;
 }
 
 li {
@@ -47,13 +48,9 @@ header {
     background-color: white;
 }
 
-.banner {
-    background-image: url("/assets/images/downtown_building.jpeg");
-    height: 800px;
+#mainbanner {
     width: 100%;
-    margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
+    height: 800px;
 }
 
 .img-style {
@@ -85,7 +82,7 @@ section {
     flex: 0 0 410px;
 }
 
-img:hover {
+.img-style:hover {
   transform: scale(1.1); 
   }
 
