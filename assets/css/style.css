@@ -6,7 +6,6 @@ body {
     background-color:#738487;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding: 40px;
-    padding-top: 20px;
 }
 
 li {
@@ -39,6 +38,15 @@ header {
     font-size: larger;
 }
 
+section {
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    flex: 0 0 410px;
+}
+
 .section-style {
     background-color: white;
 }
@@ -63,38 +71,14 @@ header {
     text-align: center;
 }
 
-section {
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 10px;
-    padding: 10px;
-    background-color: white;
-    flex: 0 0 410px;
-}
-
-.sectionS {
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 10px;
-    padding: 10px;
-    background-color: white;
-    text-align: center;
-    flex: 0 0 410px;
-}
-
 .img-style:hover {
   transform: scale(1.1); 
   }
 
 #git {
-    text-decoration: none;
     color: black;
     padding: 10px;
     font-size: larger;
-}
-
-.flex {
-    flex: 0 0 410px;
 }
 
 #img-style2 {
