@@ -14,6 +14,12 @@
 - Contact: Holds contact info with clickable link to GitHub.
 - Footer: Holds link to take you back to the top of the page.
 
+## Recent Updates
+4/16/2021: Updated portfolio with recent projects and added new clckable images. 
+           Added link to personal resume and changed font color of links. 
+           Added alt description to images. 
+           Added an image of myself in the about me section.
+
 ## Link 
 https://angelfloreschicago.github.io/hw2-portfolio/
 
